@@ -23,3 +23,17 @@ C:\VisualStudio_proj\bin\Debug\Learn_VB.exe.config
 C:\VisualStudio_proj\bin\Debug\Learn_VB.exe
 C:\VisualStudio_proj\bin\Debug\Learn_VB.pdb
 C:\VisualStudio_proj\bin\Debug\Learn_VB.xml
+D:\GIT\VB\obj\Debug\Learn_VB.vbprojAssemblyReference.cache
+D:\GIT\VB\obj\Debug\Learn_VB.Form1.resources
+D:\GIT\VB\obj\Debug\Learn_VB.Loading_screen.resources
+D:\GIT\VB\obj\Debug\Learn_VB.Resources.resources
+D:\GIT\VB\obj\Debug\Learn_VB.vbproj.GenerateResource.cache
+D:\GIT\VB\obj\Debug\Learn_VB.vbproj.CoreCompileInputs.cache
+D:\GIT\VB\obj\Debug\Learn_VB.exe
+D:\GIT\VB\obj\Debug\Learn_VB.xml
+D:\GIT\VB\obj\Debug\Learn_VB.pdb
+D:\GIT\VB\bin\Debug\Learn_VB.exe.config
+D:\GIT\VB\bin\Debug\Learn_VB.exe
+D:\GIT\VB\bin\Debug\Learn_VB.pdb
+D:\GIT\VB\bin\Debug\Learn_VB.xml
+D:\GIT\VB\obj\Debug\Learn_VB.Rs_settings.resources
