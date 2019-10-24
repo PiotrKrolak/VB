@@ -10,3 +10,16 @@ C:\Users\Ptr\AppData\Local\Temporary Projects\Learn_VB\obj\Debug\Learn_VB.vbproj
 C:\Users\Ptr\AppData\Local\Temporary Projects\Learn_VB\obj\Debug\Learn_VB.exe
 C:\Users\Ptr\AppData\Local\Temporary Projects\Learn_VB\obj\Debug\Learn_VB.xml
 C:\Users\Ptr\AppData\Local\Temporary Projects\Learn_VB\obj\Debug\Learn_VB.pdb
+C:\VisualStudio_proj\obj\Debug\Learn_VB.vbprojAssemblyReference.cache
+C:\VisualStudio_proj\obj\Debug\Learn_VB.Form1.resources
+C:\VisualStudio_proj\obj\Debug\Learn_VB.Loading_screen.resources
+C:\VisualStudio_proj\obj\Debug\Learn_VB.Resources.resources
+C:\VisualStudio_proj\obj\Debug\Learn_VB.vbproj.GenerateResource.cache
+C:\VisualStudio_proj\obj\Debug\Learn_VB.vbproj.CoreCompileInputs.cache
+C:\VisualStudio_proj\obj\Debug\Learn_VB.exe
+C:\VisualStudio_proj\obj\Debug\Learn_VB.xml
+C:\VisualStudio_proj\obj\Debug\Learn_VB.pdb
+C:\VisualStudio_proj\bin\Debug\Learn_VB.exe.config
+C:\VisualStudio_proj\bin\Debug\Learn_VB.exe
+C:\VisualStudio_proj\bin\Debug\Learn_VB.pdb
+C:\VisualStudio_proj\bin\Debug\Learn_VB.xml
